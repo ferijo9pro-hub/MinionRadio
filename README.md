@@ -1,0 +1,7 @@
+Untuk Flash Firmware ini dibutuhkan software esptool atau sejenisnya
+
+Cara Flash:
+
+Copykan perintah dibawah di command windows.
+
+esptool --chip esp32 --port COMx --baud 460800 write_flash --flash_mode dio --flash_size 4MB 0x0 MinionRadioV2.0.bin
