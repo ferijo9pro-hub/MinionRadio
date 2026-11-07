@@ -5,4 +5,5 @@ V2.01
 - Fix FT8 Map and zoom
 - Fix FT8 Rule 
 - Replace PROPAGATION page to SPECTRUM. PROPAGATION using more memory heap and FT8 error to load.
-  
+- WEFAX auto Phase and auto Slant, this auto mode work after Start begin.   
+- Frequency cannot turn after decode begin and auto mode
