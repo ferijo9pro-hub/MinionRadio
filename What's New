@@ -1,0 +1,8 @@
+WHAT'S NEW
+
+V2.01
+=================
+- Fix FT8 Map and zoom
+- Fix FT8 Rule 
+- Replace PROPAGATION page to SPECTRUM. PROPAGATION using more memory heap and FT8 error to load.
+  
