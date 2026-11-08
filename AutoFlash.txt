@@ -4,4 +4,4 @@ Cara Flash:
 
 Copykan perintah dibawah di command windows.
 
-esptool --chip esp32 --port COMx --baud 460800 write_flash --flash_mode dio --flash_size 4MB 0x0 MinionRadioV2.0.1a.bin
+esptool --chip esp32 --port COMx --baud 460800 write_flash --flash_mode dio --flash_size 4MB 0x0 MinionRadioV2.0.2.bin
