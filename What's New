@@ -1,5 +1,13 @@
 WHAT'S NEW
 
+V2.02
+=================
+-Fix FT8 memory
+-Delete some useless file and command
+-Fix Full AutoPhase on WEFAX.
+-Fix FM AM
+
+
 V2.01
 =================
 - Fix FT8 Map and zoom
