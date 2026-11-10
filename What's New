@@ -1,4 +1,16 @@
-WHAT'S NEW
+History LOG
+
+V2.03
+=================
+-Fix FT8 memory
+-Fix Wifi and Hotspot page
+-Add some Themes
+-Fix Spectrum 2d and 3d and
+-Fix AutoSlant on WEFAX
+-Move bandwidth mode to main page
+-Band Line active now, you can choose freq with slide the band line.
+-Move button FT8 CW RRTY and WEFAX to button DIGI
+-Add ALL Freq button to access all freq without limit bands
 
 V2.02
 =================
