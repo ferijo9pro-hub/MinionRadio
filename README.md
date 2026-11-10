@@ -8,3 +8,5 @@ esptool --chip esp32 --port COMx --baud 460800 write_flash --flash_mode dio --fl
 
 ATTENTION!!
 This firmware will never stop evolving, and bugs and errors will be discovered all the time. If they occur, you can simply turn the radio off and on again.
+
+You can report bugs and error to my FB page, FastFuri
