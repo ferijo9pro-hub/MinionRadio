@@ -1,9 +1,9 @@
 History LOG
 
-V2.03
+V2.03 ch full
 =================
 -Fix FT8 memory
--Fix Wifi and Hotspot page
+-Fix Wifi and Hotspot page.Added full channel
 -Add some Themes
 -Fix Spectrum 2d and 3d and
 -Fix AutoSlant on WEFAX
